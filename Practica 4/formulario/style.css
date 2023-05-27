@@ -1,0 +1,53 @@
+h1{
+    text-align: center;
+    color: aqua;
+}
+article {
+    text-align: justify;
+    border: 2px solid rgb(63, 223, 138);
+    border-radius: 10px;
+    margin: 20px auto;
+    max-width: 700px;
+    padding: 20px;
+}
+
+div {
+    border: 5px solid grey;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 10px;
+}
+
+form {
+    margin: 2px;
+    border-radius: 5px;
+    background-color: rgb(199, 199, 199);
+    padding: 10px;
+}
+
+input {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+label {
+    display: inline-block;
+    text-align: right;
+    margin-bottom: 5px;
+    width: 150px;
+}
+
+input[type="date"] {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+    outline: none;
+  }
+  
+  /* Personaliza la apariencia del calendario desplegable en algunos navegadores */
+
+  
